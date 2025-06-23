@@ -1,0 +1,8 @@
+# This file is automatically managed by enkore
+# DO NOT ADD ENTRIES HERE, THEY WILL BE REMOVED
+/src/myFunction.ts
+/src/myFunctionSync.ts
+/export/myFunctionFactory.ts
+/export/myFunction.ts
+/export/myFunctionSyncFactory.ts
+/export/myFunctionSync.ts
