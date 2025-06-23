@@ -11,6 +11,6 @@
     "@anio-software/enkore": "^0.0.90",
     "@anio-software/enkore.core": "^0.11.2",
     "@anio-software/enkore.js-runtime": "^0.0.2",
-    "@anio-software/enkore.target-js-none": "^0.0.232-canary-4a0ec4c9-bd9604bb"
+    "@anio-software/enkore.target-js-none": "^0.0.234-canary-94b6b7e5-08e5e4cf"
   }
 }
