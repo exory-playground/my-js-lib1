@@ -1,4 +1,4 @@
-import type {EnkoreJSRuntimeContextOptions} from "@anio-software/enkore.js-runtime/v0"
+import type {EnkoreJSRuntimeContextOptions} from "@anio-software/enkore.js-runtime"
 import {createContext} from "@anio-software/enkore.js-runtime"
 
 export async function __implementation(
