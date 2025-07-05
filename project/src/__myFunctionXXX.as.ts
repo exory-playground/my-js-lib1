@@ -1,6 +1,14 @@
 import type {EnkoreJSRuntimeContextOptions} from "@anio-software/enkore.js-runtime"
 import {createContext} from "@anio-software/enkore.js-runtime"
 
+import {getEmbedAsURL} from "@anio-software/enkore.target-js-none/project"
+
+const url1 = getEmbedAsURL("text://hello.mts")
+const url2 = getEmbedAsURL("js://hello.mts");
+
+// @ts-ignore:next-line
+console.log("the URLs are: ", url1, url2);
+
 export async function __implementation(
 //>export function __implementationSync(
 	options: EnkoreJSRuntimeContextOptions
