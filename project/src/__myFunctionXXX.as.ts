@@ -3,8 +3,8 @@ import {createContext} from "@anio-software/enkore.js-runtime"
 
 import {getEmbedAsURL} from "@anio-software/enkore.target-js-none/project"
 
-const url1 = getEmbedAsURL("text://hello.mts")
-const url2 = getEmbedAsURL("js://hello.mts");
+const url1 = getEmbedAsURL("text://hello.ts")
+const url2 = getEmbedAsURL("js://hello.ts");
 
 // @ts-ignore:next-line
 console.log("the URLs are: ", url1, url2);
