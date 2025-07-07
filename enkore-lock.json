@@ -14,17 +14,17 @@
             "hash": "4e05efaa916cf8adf4e7d7df0c695b1ee8484ceac6dc19f48e7fa03041ee206f"
         },
         "project/export/myFunction.ts": {
-            "hash": "31df0a24e327118d884fac8ee9486f16ee622c421a076631e26ebad77dbc1157"
+            "hash": "40add5e2c414d04fa148d569b51ffced0ec9622a04ec03cbfe9ab53ccf444b89"
         },
         "project/export/myFunctionSyncFactory.ts": {
             "hash": "996e5c49ed9b6216d5bc3af2b22956dd33b1d8e896ee9b9628a3dc80b2010edd"
         },
         "project/export/myFunctionSync.ts": {
-            "hash": "787acded73812904f8a3c73f6853af4ab6b252c5990c36a98021fa18352aa36f"
+            "hash": "353dab86d1e06bcaf2fbde2f1ccd53608d8966a801aaf88c2802dc1d406541f2"
         }
     },
     "toolchain": [
         "js",
-        76
+        77
     ]
 }
