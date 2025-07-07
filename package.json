@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@anio-software/enkore": "^0.0.162-canary-cbabfc4c-be79b172",
-    "@anio-software/enkore.core": "^0.11.22-canary-5564f69f-71984fdf",
-    "@anio-software/enkore.target-js-none": "^0.0.288-canary-752682a6-8485e46b"
+    "@anio-software/enkore": "^0.0.180",
+    "@anio-software/enkore.core": "^0.12.0",
+    "@anio-software/enkore.target-js-none": "^0.0.340"
   }
 }
